@@ -1,1 +1,2 @@
-const newIssue = 'toi la toi';
+const newIssue = 'toi la issue2';
+const issue2 = 'hello world';
